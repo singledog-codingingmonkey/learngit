@@ -8,5 +8,5 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 ADD MERGE.
-Here is a bug.
+Here is no bug.
 for Ubuntu :)
