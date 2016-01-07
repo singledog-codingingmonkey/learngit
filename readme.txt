@@ -10,4 +10,5 @@ Creating a new branch is quick AND simple.
 ADD MERGE.
 
 Here is no  bug.(fix by issue-101)
+Here is no bug.(fix by issue-102)
 for Ubuntu :)
